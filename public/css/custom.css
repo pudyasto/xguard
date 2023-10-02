@@ -1,0 +1,25 @@
+.table {
+    width: 100% !important;
+}
+
+tfoot {
+    display: table-header-group;
+}
+
+tfoot>tr>th {
+    padding: 5px 5px !important;
+}
+
+.dataTables_processing {
+    display: none !important;
+}
+
+.page-header-static {
+    z-index: 1020;
+}
+
+@media (max-width: 575.98px) {
+    .company-logo {
+        display: none !important;
+    }
+}
