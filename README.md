@@ -15,4 +15,4 @@ Ikut langkah-langkah dibawah ini :
 
 ## License
 
-Copyright - PT. Apparel One Indonesia 2023.
+MIT
